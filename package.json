@@ -1,0 +1,24 @@
+{
+  "name": "platforms_library",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ivadelina/platforms_library.git"
+  },
+  "author": "ivadelina",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ivadelina/platforms_library/issues"
+  },
+  "homepage": "https://github.com/ivadelina/platforms_library#readme",
+  "dependencies": {
+    "@ivadelina/platforms": "^1.0.0"
+  }
+}
